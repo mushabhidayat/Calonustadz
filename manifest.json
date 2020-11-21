@@ -1,7 +1,7 @@
 {
   "name": "MUSHAB.or.ID",
   "short_name": "MUSHAB.OR.ID",
-  "start_url": "https://www.mushab.or.id/index.html",
+  "start_url": "https://www.mushab.or.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#01579b",
