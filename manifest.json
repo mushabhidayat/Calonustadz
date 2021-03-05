@@ -1,7 +1,7 @@
 {
   "name": "mushab.or.id",
   "short_name": "mushab.or.id",
-  "start_url": "https://mushab.or.id/",
+  "start_url": "https://mushab.or.id/?source=pwa",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#022323",
@@ -10,29 +10,36 @@
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s48/logo%2Bmushab.or.id.png",
     "sizes": "48x48",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s72/logo%2Bmushab.or.id.png",
     "sizes": "72x72",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s96/logo%2Bmushab.or.id.png",
     "sizes": "96x96",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s144/logo%2Bmushab.or.id.png",
     "sizes": "144x144",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s168/logo%2Bmushab.or.id.png",
     "sizes": "168x168",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s192/logo%2Bmushab.or.id.png",
     "sizes": "192x192",
     "type": "image/png"
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-tDb_ztrMEpk/YEI00ZT5IvI/AAAAAAAAEVM/MsuCqmcYfl8WcX8yCDgO7M7PNaX3ehAOwCLcBGAsYHQ/s512/logo%2Bmushab.or.id.png",
     "sizes": "512x512",
     "type": "image/png"
+    "purpose": "any maskable"
   }]
 }
